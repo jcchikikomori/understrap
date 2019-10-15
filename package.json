@@ -7,7 +7,7 @@
     "npm": ">=2.1.8"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/jcchikikomori"
   },
   "repository": {
     "type": "git",
